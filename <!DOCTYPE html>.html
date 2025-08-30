@@ -177,7 +177,7 @@
 <section id="contact" class="contact">
   <h2>Contact</h2>
   <p>📍 Balmiki Ashram, Ismailpur, Gajadhar Ganj, Buxar, Bihar – 802103</p>
-  <p>🔗 <a href="#">LinkedIn</a> | 🌐 <a href="#">Portfolio</a></p>
+  <p>🔗 <a href="https://www.linkedin.com/in/kshitij-kumar-singh-342640277" target="_blank">LinkedIn Profile</a></p>
 </section>
 
 <footer>
